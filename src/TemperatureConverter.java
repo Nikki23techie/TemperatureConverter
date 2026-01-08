@@ -25,7 +25,7 @@ public class TemperatureConverter {
             System.out.printf("%.2f°F = %.2f°C%n", fahrenheit, celsius);
         } 
         else {
-            System.out.println("Invalid choice! Please select 1 or 2.");
+            System.out.println("Invalid choice! please select 1 or 2.");
         }
         
         scanner.close();
